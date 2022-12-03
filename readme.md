@@ -85,15 +85,9 @@ git checkout public
 git pull mirror <branch-in-mirror>
 git checkout main
 git checkout --theirs public <files>
+```
+7. **In general changes must be checked out between public and private**
 
-//make a pull request from public to main in github's private repo
-```
-7. **Fetch changes from origin:public**
-```
-git checkout public
-git pull origin public
-git push -u mirror public
-```
 All this commands should be implemented in a script or using git hooks.
 In general, the structure is the following:
 * We have 2 repos: private-repo and public-repo.
