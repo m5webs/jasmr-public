@@ -53,7 +53,7 @@ This assumes the existence of both a public and private repository in github, an
 ```
 git remote add mirror https://<username>@github.com/<username>/<private-repo-name>.git
 
-git checkout -b public
+git checkout --orphan public
 ```
 2. **Make changes on the public branch and push to main repo**
 ```
