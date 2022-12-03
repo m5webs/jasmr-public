@@ -74,7 +74,7 @@ git checkout main
 1. **Merge private 🠊 public**
 ```
 git checkout public
-git checkout --patch main <files> 
+git checkout --theirs main <files> 
 //remove --patch if files do not exist in public
 
 git push -u mirror public
@@ -83,7 +83,8 @@ git push -u mirror public
 ```
 git checkout public
 git pull mirror <branch-in-mirror>
-git push -u origin public
+git checkout main
+git checkout --theirs public <files>
 
 //make a pull request from public to main in github's private repo
 ```
