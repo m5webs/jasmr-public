@@ -1,2 +1,10 @@
 # Ignore scripts
 *.sh
+
+# Ignore images
+*.jpg
+*.png
+*.gif
+*.bmp
+*.ico
+*.psd
