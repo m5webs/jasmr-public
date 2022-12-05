@@ -1,5 +1,6 @@
 # Ignore scripts
 *.sh
+*.ps1
 
 # Ignore images
 *.jpg
