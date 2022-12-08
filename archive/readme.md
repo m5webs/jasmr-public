@@ -27,6 +27,7 @@ This list also includes a personal rating of the work and an subjective emoji le
 |[RJ397242](RJ397242/artwork/ "title")|[🌺](https://www.dlsite.com/maniax/work/=/product_id/RJ397242.html)[💞](https://www.asmr.one/work/RJ397242)[📂](RJ397242/)||❓|🐕🐕🐕|
 |[RJ412274](RJ412274/artwork/ "title")|[🌺](https://www.dlsite.com/maniax/work/=/product_id/RJ412274.html)[💞](https://www.asmr.one/work/RJ412274)[📂](RJ412274/)||❓⭐⭐⭐⭐|👩🙆‍♀️👩‍🎓|
 |[RJ424711](RJ424711/artwork/ "title")|[🌺](https://www.dlsite.com/maniax/work/=/product_id/RJ424711.html)[💞](https://www.asmr.one/work/RJ424711)[📂](RJ424711/)||❓|👧👧|
+|[RJ425262](RJ425262/artwork/ "title")|[🌺](https://www.dlsite.com/maniax/work/=/product_id/RJ425262.html)[💞](https://www.asmr.one/work/RJ425262)[📂](RJ425262/)||❓|🏕️🏞️|
 ---
 ## Pending Translation
 
